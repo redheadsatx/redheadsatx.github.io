@@ -1,18 +1,11 @@
 ---
 layout: page
 title: About Us
-subtitle: do you like redheads?
+subtitle: Janine and Juliya
 ---
 
-We are Janine May and Juliya Gannon
-<br>
-Together, we are, 
-<br>
-### REDHEADS
-<br>
-
-What else do you need?
-<br>
+(I will work on this another time)
+<br> 
 
 ### Our Story
 
