@@ -4,7 +4,7 @@ title: Happy Birthday
 subtitle: to our studio!
 cover-img: /assets/img/ulikethat.JPG
 thumbnail-img: /assets/img/book.PNG
-share-img: /assets/img/ulikethat.JPG
+share-img: /assets/img/cowball.png
 tags: [announcement]
 author: Juliya
 ---
