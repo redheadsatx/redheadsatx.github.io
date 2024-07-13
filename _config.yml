@@ -135,14 +135,14 @@ keywords: "redheads,austin,texas,game-studio"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#3b3735"
+page-col: "#290b29"
 text-col: "#f0e5df"
 link-col: "#c4170e"
 hover-col: "#eb7a34"
-navbar-col: "#f0e5df"
+navbar-col: "#dbccdb"
 navbar-text-col: "#3b3735"
 navbar-border-col: "#DDDDDD"
-footer-col: "#f0e5df"
+footer-col: "#dbccdb"
 footer-text-col: "#3b3735"
 footer-link-col: "#404040"
 footer-hover-col: "#eb7a34"
@@ -170,13 +170,13 @@ footer-hover-col: "#eb7a34"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-QQD20ZTG5G"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "8447395994"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -259,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
