@@ -2,9 +2,9 @@
 layout: post
 title: Happy Birthday
 subtitle: to our studio!
-cover-img: /assets/img/ulikethat.jpg
-thumbnail-img: /assets/img/book.png
-share-img: /assets/img/ulikethat.jpg
+cover-img: /assets/img/ulikethat.JPG
+thumbnail-img: /assets/img/book.PNG
+share-img: /assets/img/ulikethat.JPG
 tags: [announcement]
 author: Juliya
 ---
